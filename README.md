@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NGOLDWEEKLY
 - 👀 I’m interested in CTF and Competitive Programming
 - 🌱 I’m currently pursuing computer science in UTAR.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for an internship opportunity to gain industrial experience.
 - 📫 Feel free to reach me at ngoldweekly@gmail.com.
 
 <!---
