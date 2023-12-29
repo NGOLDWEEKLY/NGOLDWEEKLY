@@ -3,7 +3,8 @@
 - 👀 I’m interested in CTF and Competitive Programming
 - 🌱 I’m currently pursuing computer science in UTAR.
 - 🎶 I'm able to code using C++, Python, Java, HTML, CSS, JS, PHP, SQL
-- 💞️ I’m looking for an internship opportunity to gain industrial experience.
+- 🌱 I have experienced in various generative AI projects (Involved in LLMs like GPT-3.5, GPT-4, PaLM, Gemini)
+- 💞️ I’m looking for a job opportunity as a graduating student.
 - 📫 Feel free to reach me at ngoldweekly@gmail.com.
 
 <!---
@@ -20,6 +21,6 @@ You can click the Preview link to take a look at your changes.
 6. Other previous dynamic website I have done but already missing source code. (refer to img file)
 7. Disney website remake (removed due to copyright concerns)
 8. GCal Autogenerator (UTAR version): https://foonsci.github.io/s1s/
-## 2022
+## 2023
 1. Hiring Solution for SMEs: https://github.com/Null-Pointer-Ninjas/google-dev-hack-2023
 2. Mobile Application for university students: https://github.com/NGOLDWEEKLY/MoneyForestApp
