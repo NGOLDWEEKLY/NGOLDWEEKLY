@@ -5,7 +5,7 @@
 - 🎶 I'm able to code using C++, Python, Java, HTML, CSS, JS, PHP, SQL
 - 🌱 I have experienced in various generative AI projects (Involved in LLMs like GPT-3.5, GPT-4, PaLM, Gemini)
 - 💞️ I’m looking for a job opportunity as a graduating student.
-- 📫 Feel free to reach me at ngoldweekly@gmail.com.
+- 📫 Feel free to reach me at jypurz@gmail.com.
 
 <!---
 NGOLDWEEKLY/NGOLDWEEKLY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
