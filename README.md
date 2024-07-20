@@ -1,9 +1,10 @@
 # About Me
-- 👋 Hi, I’m @NGOLDWEEKLY
-- 👀 I’m interested in CTF and Competitive Programming
-- 🌱 I’m currently pursuing computer science in UTAR.
-- 🎶 I'm able to code using C++, Python, Java, HTML, CSS, JS, PHP, SQL
-- 🌱 I have experienced in various generative AI projects (Involved in LLMs like GPT-3.5, GPT-4, PaLM, Gemini)
+- **[NEW!]** Visit my portfolio page at: https://ngoldweekly.github.io/JingYing-Portfolio/
+- 👋 Hi, I’m Ng Jing Ying, a **Transformer Enthusiast** and **Multimodal LLM Explorer**!
+- 👀 I’m interested in responsible AI and cybersecurity.
+- 🌱 I recently graduated from Universiti Tunku Abdul Rahman (UTAR), Malaysia with a Bachelor of Computer Science (Hons), achieving a CGPA of 3.95/4.00.
+- 🎶 I'm able to code using C++, Python, Java, HTML, CSS, JS, PHP, SQL.
+- 🌱 I have experienced in various generative AI projects (Involved in LLMs like GPT-3.5, GPT-4, PaLM, Gemini, Mistral, LLaMA)
 - 💞️ I’m looking for a job opportunity as a graduating student.
 - 📫 Feel free to reach me at jypurz@gmail.com.
 
