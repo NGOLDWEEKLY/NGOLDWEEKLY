@@ -30,7 +30,10 @@ You can click the Preview link to take a look at your changes.
 ## 2023
 1. Hiring Solution for SMEs: https://github.com/Null-Pointer-Ninjas/google-dev-hack-2023
 2. Mobile Application for university students: https://github.com/NGOLDWEEKLY/MoneyForestApp
+3. Traffic Sign Segmentation using OpenCV (C++, Visual Studio): https://ngoldweekly.github.io/JingYing-Portfolio/project-traffic-sign.html
 ## 2024
 1. Immersive Soft Skills Training Application using Large Language Models and Virtual Reality:
    Interview Session: https://www.youtube.com/watch?v=2WwAfddIRac
    AI爱上学：https://youtu.be/jKtYOOmkarc
+2. PCB Defect Detection: https://github.com/NGOLDWEEKLY/CVFlask
+   
